@@ -55,6 +55,7 @@ A cutting-edge news platform delivering comprehensive coverage across multiple d
 ## Getting Started
 
 1. Clone the repository
+2. ![image](https://github.com/user-attachments/assets/d277f59d-88e2-46f4-8870-4d0dab2b7722)
+
 ```bash
 git clone [repository-url]
-![image](https://github.com/user-attachments/assets/84c6e848-14bb-4d47-8789-021e6661c55e)
