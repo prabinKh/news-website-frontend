@@ -1,7 +1,7 @@
 # news-website-frontend
 # Global News Platform
 
-A cutting-edge news platform delivering comprehensive coverage across multiple domains. Built with React, TypeScript, and Tailwind CSS, featuring a modern dark theme and intuitive navigation.
+A cutting-edge news platform delivering comprehensive coverage across multiple domains. Built with Remix , TypeScript, and Tailwind CSS, featuring a modern dark theme and intuitive navigation.
 
 ## News Categories
 
